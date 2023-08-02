@@ -1,4 +1,3 @@
-
 # Turtle Crossing Game
 
 This project is a simple and fun game that's been implemented using Python's `turtle` module. It's a variation of the classic "Frogger" game, with a turtle trying to cross a busy street. 
@@ -25,4 +24,3 @@ To run the game, simply execute the `main.py` file in a Python environment that 
 
 ---
 
-Remember, the aim of the README file is to inform people about your project, how to use it, and what it does. Depending on the complexity of your project and your audience, you may want to include more information such as installation instructions, contribution guidelines, and so on.
